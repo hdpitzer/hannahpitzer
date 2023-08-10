@@ -27,9 +27,9 @@ sections:
           # description: 10%
           icon: python
           icon_pack: fab
-  - block: experience
-    content:
-      title: Experience
+#  - block: experience
+#    content:
+#      title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
