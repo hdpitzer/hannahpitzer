@@ -21,7 +21,7 @@ sections:
           icon_pack: ai
         - name: Cloud Computing
           # description: 100%
-          icon: chart-line
+          icon: cloud
           icon_pack: fas
         - name: Python
           # description: 10%
