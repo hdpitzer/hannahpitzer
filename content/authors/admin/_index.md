@@ -62,7 +62,7 @@ social:
     link: https://github.com/hdpitzer
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/hannah-pitzer/
+    link: https://www.linkedin.com/in/hannah-pitzer/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
